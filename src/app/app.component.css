@@ -1,0 +1,24 @@
+ngb-rating {
+    font-size: 20pt;
+    color:rgb(228, 46, 106);
+  }
+
+  .gg{
+    font-size: 19pt
+  }
+
+  .gc{
+    font-size: 14pt;;
+  }
+
+  .border-pink{
+    border-color: rgb(219, 21, 87);
+  }
+
+  .colp{
+    color: rgb(219, 21, 87);
+  }
+
+  body{
+    font-family: MS UI Gothic;
+  }
